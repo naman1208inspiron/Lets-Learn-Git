@@ -8,7 +8,8 @@ int main(){
     cout.tie(0);
 
     int a; cin>>a;
-    int b; cin>>b
+    int b; cin>>b;
+    cout<<"the sum is :";
     cout<< a+b;
     return 0;
 }
